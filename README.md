@@ -38,8 +38,7 @@
 
 ###
 
-![snake gif]
-(https://github.com/612teres/612teres/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ###<div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
