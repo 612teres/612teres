@@ -20,11 +20,16 @@
 
 ###
 
-<p align="left">I'm Fabian Teres from Kenya<br><br>- 🔭 I’m working as Fullstack Software Developer<br>- 📚 I'm currently learning Backend development<br>- ⚡ In my free time I still code</p>
+<p align="left">I'm Fabian Teres from Kenya<br><br>- 🔭 I’m a Fullstack Developer<br>- 📚 I'm currently not giving up🔥<br>- ⚡ In my free time I still code</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+  - Python<br>
+  - HTML/CSS/JS<br>
+  - Flask<br>
+  - React<br>
+  - MySQL/Mongo
 
 ###
 
