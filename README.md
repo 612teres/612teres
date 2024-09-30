@@ -17,9 +17,9 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<p><a href='https://fabianteres.vercel.app'>Click Here</p>
-###
 
+###
+<p><a href='https://fabianteres.vercel.app'>Portfolio Website</p>
 <p align="left">I'm Fabian Teres from Kenya<br><br>- 🔭 I’m a Fullstack Developer<br>- 📚 I'm currently not giving up🔥<br>- ⚡ In my free time I still code</p>
 
 ###
