@@ -29,7 +29,11 @@
   - HTML/CSS/JS<br>
   - Flask<br>
   - React<br>
-  - MySQL/Mongo
+  - MySQL/MongoDB/Supabase
+  - NodeJS
+  - React
+  - Nuxt
+  - NextJS
 
 ###
 
