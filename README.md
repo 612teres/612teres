@@ -31,9 +31,7 @@
   - React<br>
   - MySQL/MongoDB/Supabase<br>
   - NodeJS
-  - React
-  - Nuxt
-  - NextJS
+  - React Nuxt NextJS
 
 ###
 
