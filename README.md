@@ -63,14 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=612teres&theme=aura&hide_border=true&background=0D1117" height="180" alt="streak graph" />
 </div>
 
-
-## 🏆 GitHub Trophies
-
-<!-- Animated trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=612teres&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
 <!-- Animated quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
