@@ -95,15 +95,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=612teres&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 📌 Pinned Repositories
-
-<!-- Animated typing quote -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=500&height=60&lines=Building+the+future%2C+one+line+at+a+time;Code+is+poetry+in+motion;Turning+coffee+into+code+since+2015" alt="Typing SVG" />
-</div>
-
----
-
 <!-- Animated quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
