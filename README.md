@@ -32,11 +32,6 @@
 - 📚 I believe in persistence and never giving up 🔥
 - ⚡ In my free time, I still code because I love what I do
 
-<!-- Animated snake contribution graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" />
-</div>
-
 ## 🛠️ Tech Stack
 
 <!-- Animated tech stack with hover effect -->
@@ -68,13 +63,6 @@
   <img src="https://streak-stats.demolab.com?user=612teres&theme=aura&hide_border=true&background=0D1117" height="180" alt="streak graph" />
 </div>
 
-## 📈 3D Contribution Calendar
-
-<div align="center">
-  <a href="https://github.com/612teres">
-    <img src="https://github-readme-3d-contrib.ampl.fi/profile-season.svg?username=612teres&height=300&combinedDays=14&width=800" alt="3D Contribution Calendar" />
-  </a>
-</div>
 
 ## 🏆 GitHub Trophies
 
