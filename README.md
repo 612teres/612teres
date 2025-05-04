@@ -7,14 +7,8 @@
   
   <!-- Social media badges with hover effect -->
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <a href="https://linkedin.com/in/fabian-teres-282783239" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-    <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-    </a>
-    <a href="https://youtube.com/c/YOUR_YOUTUBE" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
     </a>
     <a href="https://fabianteres.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
@@ -104,7 +98,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <h3>Feel free to connect with me!</h3>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:612tere@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
