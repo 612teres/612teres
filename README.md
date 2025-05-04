@@ -84,7 +84,7 @@
 
 <div align="center">
   <a href="https://github.com/612teres">
-    <img src="https://github-readme-3d-contrib.ampl.fi/profile-season-animate.svg?username=612teres&height=300&combinedDays=14&animationDuration=4&width=800" alt="3D Contribution Calendar" />
+    <img src="https://github-readme-3d-contrib.ampl.fi/profile-season.svg?username=612teres&height=300&combinedDays=14&width=800" alt="3D Contribution Calendar" />
   </a>
 </div>
 
