@@ -42,14 +42,8 @@
 <!-- Animated tech stack with hover effect -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,flask,mysql,mongodb,supabase,git,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=tailwind,typescript,firebase,vercel,figma,docker&perline=6" />
 </div>
-
-<details>
-  <summary>💻 More Skills</summary>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind,typescript,firebase,vercel,figma,docker&perline=6" />
-  </div>
-</details>
 
 ## 📊 GitHub Stats
 
