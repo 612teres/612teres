@@ -47,14 +47,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=612teres&show_icons=true&theme=aura&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/612teres/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=612teres&layout=compact&theme=aura&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
   </a>
 </div>
 
 <!-- Animated contribution graph -->
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <a href="https://github.com/612teres/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=612teres&theme=react-dark&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
