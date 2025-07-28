@@ -22,17 +22,17 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 👨‍💻 About Me
+## - About Me
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 
-- 🌍 I'm Fabian Teres from Kenya
-- 💼 Fullstack Developer passionate about building web applications
-- 🚀 Currently working on exciting projects and continuously improving my skills
-- 📚 I believe in persistence and never giving up 🔥
-- ⚡ In my free time, I still code because I love what I do
+-  I'm Fabian Teres from Kenya
+-  Fullstack Developer passionate about building web applications
+-  Currently working on exciting projects and continuously improving my skills
+-  I believe in persistence and never giving up
+-  In my free time, I still code because I love what I do
 
-## 🛠️ Tech Stack
+## - Tech Stack
 
 <!-- Animated tech stack with hover effect -->
 <div align="center">
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind,typescript,firebase,vercel,figma,docker&perline=6" />
 </div>
 
-## 📊 GitHub Stats
+## - GitHub Stats
 
 <!-- Animated contribution graph -->
 <div align="center">
