@@ -23,7 +23,7 @@
 </div>
 
 ## - About Me
-<div align="center">
+<div>
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 <br></br>
 
