@@ -23,8 +23,9 @@
 </div>
 
 ## - About Me
-<div align="canter">
+<div align="center">
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+<br></br>
 
 -  I'm Fabian Teres from Kenya
 -  Fullstack Developer passionate about building web applications
