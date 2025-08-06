@@ -23,7 +23,7 @@
 </div>
 
 ## - About Me
-
+<div align="canter">
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 
 -  I'm Fabian Teres from Kenya
@@ -31,6 +31,7 @@
 -  Currently working on exciting projects and continuously improving my skills
 -  I believe in persistence and never giving up
 -  In my free time, I still code because I love what I do
+</div>
 
 ## - Tech Stack
 
