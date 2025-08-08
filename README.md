@@ -28,7 +28,7 @@
 <br></br>
 
 -  I'm Fabian Teres from Kenya
--  Fullstack Developer passionate about building web applications
+-  Fullstack Developer passionate about building solution systems
 -  Currently working on exciting projects and continuously improving my skills
 -  I believe in persistence and never giving up
 -  In my free time, I still code because I love what I do
