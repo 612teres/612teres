@@ -13,6 +13,9 @@
     <a href="https://fabianteres.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
     </a>
+    <a href="mailto:612tere@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   </p>
   
   <!-- Animated line separator -->
@@ -60,8 +63,5 @@
 <!-- Animated footer -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h3>Feel free to connect with me!</h3>
-  <a href="mailto:612tere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
 </div>
