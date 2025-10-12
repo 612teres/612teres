@@ -28,10 +28,8 @@
 <br></br>
 
 -  I'm Fabian Teres
--  Fullstack Developer passionate about building solution systems
--  Currently working on exciting projects and continuously improving my skills
--  I believe in persistence and never giving up
--  In my free time, I still code because I love what I do
+-  A full-stack Developer passionate about building solution systems
+-  In my free time, I still code
 </div>
 
 ## - Tech Stack
