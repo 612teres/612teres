@@ -31,6 +31,7 @@
 -  A full-stack Developer passionate about building solution systems
 -  In my free time, I still code
 </div>
+<br></br>
 
 ## - Tech Stack
 
