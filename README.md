@@ -27,7 +27,7 @@
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 <br></br>
 
--  I'm Fabian Teres from Kenya
+-  I'm Fabian Teres
 -  Fullstack Developer passionate about building solution systems
 -  Currently working on exciting projects and continuously improving my skills
 -  I believe in persistence and never giving up
