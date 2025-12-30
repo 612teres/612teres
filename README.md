@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=612teres&theme=aura&hide_border=true&background=0D1117" height="180" alt="streak graph" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=612teres&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
 <!-- Animated quote -->
