@@ -46,9 +46,7 @@
 
 <!-- Animated contribution graph -->
 <div align="center">
-  <a href="https://github.com/612teres/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=612teres&theme=react-dark&hide_border=true" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=612teres&theme=react-dark&hide_border=true" />
 </div>
 
 <div align="center">
