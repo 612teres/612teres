@@ -45,12 +45,13 @@
 ## - GitHub Stats
 
 <!-- Animated contribution graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=612teres&theme=react-dark&hide_border=true" />
+<div>
+<a href="https://github.com/612teres/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=612teres&theme=react-dark&hide_border=true" alt="Activity Graph" /> </a>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=612teres&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=612teres&theme=react-dark&hide_border=true" />
 </div>
 
 <!-- Animated quote -->
