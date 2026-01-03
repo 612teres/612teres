@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=612teres&theme=react-dark&hide_border=true" />
+  ![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=612teres&show_icons=true&theme=radical)
 </div>
 
 <!-- Animated quote -->
