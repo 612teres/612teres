@@ -1,10 +1,4 @@
 <div align="center">
-  <!-- Animated typing header with more lines and smoother animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=800&color=6E56CF&center=true&vCenter=true&random=false&width=500&lines=Hey+there%2C+I'm+Fabian+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9;Never+giving+up+%F0%9F%94%A5" alt="Typing SVG" />
-  
-  <!-- Animated wave hand -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-  
   <!-- Social media badges with hover effect -->
   <p>
     <a href="https://linkedin.com/in/fabian-teres-282783239" target="_blank">
@@ -50,17 +44,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=612teres&theme=react-dark&hide_border=true" alt="Activity Graph" /> </a>
 </div>
 
-<div align="center">
-  ![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=612teres&show_icons=true&theme=radical)
-</div>
-
 <!-- Animated quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-<!-- Animated footer -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
