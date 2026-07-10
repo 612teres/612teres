@@ -45,7 +45,7 @@
 </div>
 
 <div align=center>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=612teres&v=2&theme=dark)](https://git.io/streak-stats)
+ <a href="[![GitHub Streak](https://streak-stats.demolab.com?user=612teres&v=2&theme=dark)](https://git.io/streak-stats)">
 </div>
 
 
