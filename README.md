@@ -34,6 +34,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,flask,mysql,mongodb,supabase,git,vscode&perline=7" /> <br>
   <img src="https://skillicons.dev/icons?i=tailwind,typescript,firebase,vercel,figma,docker,vue,aws,github&perline=6" />
+  <img src="https://streak-stats.demolab.com?user=612teres&theme=dark&v=2">
 </div>
 
 ## - GitHub Stats
@@ -42,7 +43,6 @@
 <div>
 <a href="https://github.com/612teres/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=612teres&theme=react-dark&hide_border=true" alt="Activity Graph" /> </a>
-  <img src="https://streak-stats.demolab.com?user=612teres&theme=dark&v=2">
 </div>
 
 
