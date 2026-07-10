@@ -42,8 +42,10 @@
 <div>
 <a href="https://github.com/612teres/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=612teres&theme=react-dark&hide_border=true" alt="Activity Graph" /> </a>
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=612teres&v=2)](https://git.io/streak-stats)
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=612teres)](https://git.io/streak-stats)
+
 
 <!-- Animated quote -->
 <div align="center">
