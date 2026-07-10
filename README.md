@@ -33,7 +33,7 @@
 <!-- Animated tech stack with hover effect -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,flask,mysql,mongodb,supabase,git,vscode&perline=7" /> <br>
-  <img src="https://skillicons.dev/icons?i=tailwind,typescript,firebase,vercel,figma,docker,vue,aws,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=tailwind,typescript,firebase,vercel,figma,docker,vue,aws,github&perline=6" /> <br>
   <img src="https://streak-stats.demolab.com?user=612teres&theme=dark&v=2">
 </div>
 
