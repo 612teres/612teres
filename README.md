@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nextjs,nodejs,flask,mysql,mongodb,supabase,git,vscode&perline=7" /> <br>
   <img src="https://skillicons.dev/icons?i=tailwind,typescript,firebase,vercel,figma,docker,vue,aws,github&perline=6" /> <br>
   <br>
-  <img src="https://streak-stats.demolab.com?user=612teres&theme=dark&v=2">
+  <img src="https://streak-stats.demolab.com?user=612teres&theme=dark&v=2" alt="Loading...">
 </div>
 
 ## - GitHub Stats
