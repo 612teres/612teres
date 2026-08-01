@@ -4,7 +4,7 @@
     <a href="https://linkedin.com/in/fabian-teres-282783239" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
-    <a href="https://fabianteres.vercel.app" target="_blank">
+    <a href="https://612teres.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
     </a>
     <a href="mailto:612tere@gmail.com">
