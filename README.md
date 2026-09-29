@@ -19,7 +19,7 @@
 <br></br>
 
 -  I'm Fabian Teres
--  A full-stack Developer passionate about building solution systems
+-  A Software Engineer
 -  In my free time, I still code
 </div>
 <br></br>
