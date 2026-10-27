@@ -35,15 +35,6 @@
   <img src="https://streak-stats.demolab.com?user=612teres&theme=dark&v=2" alt="Loading...">
 </div>
 
-## - GitHub Stats
-
-<!-- Animated contribution graph -->
-<div>
-<a href="https://github.com/612teres/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=612teres&theme=react-dark&hide_border=true" alt="Activity Graph" /> </a>
-</div>
-
-
 <!-- Animated quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
